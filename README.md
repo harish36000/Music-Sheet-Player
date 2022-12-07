@@ -1,4 +1,4 @@
-# Sheet Music Reader 
+# Music Sheet Vision 
 ## Brief Description
 
 Our project aims at creating a pipepline which will be able to read sheet music from music tabs via a camera/photo/image. It will also play the music notes after they are detected by the algorithm.
@@ -19,13 +19,6 @@ Our project aims at creating a pipepline which will be able to read sheet music 
 ## Sample outputs
 
 Give sample outputs - both success and failure cases for the techniquie you have used.
-
-## Team Information
-
-1. Tanmay Bhatt - 2020112017
-2. Pranav Manu - 2020112019
-3. Harish Umasankar - 2020102067
-4. Ruhul Ameen - 2020102031
 
 
 
